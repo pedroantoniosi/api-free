@@ -3,87 +3,104 @@
     {
       "titulo": "Eclipse no Kage",
       "imagem": "https://example.com/images/eclipse-no-kage.jpg",
-      "noticia": "Em 2025, 'Eclipse no Kage' chegou como uma das obras mais sombrias do ano. O anime mistura fantasia sombria com mistérios políticos em um reino dividido pela luz e trevas. A produção do estúdio Wisteria promete emocionar e surpreender o público a cada episódio, com trilha sonora intensa e um elenco de peso."
+      "noticia": "Em 2025, 'Eclipse no Kage' chegou como uma das obras mais sombrias do ano.",
+      "data_publicacao": "2025-03-11"
     },
     {
       "titulo": "Sora no Melody",
       "imagem": "https://example.com/images/sora-no-melody.jpg",
-      "noticia": "'Sora no Melody' encanta fãs de música e drama em 2025. A história acompanha Yuki, uma garota que descobre um piano mágico perdido nas nuvens. A animação leve e a trilha sonora original vêm sendo amplamente elogiadas, garantindo lugar entre os melhores animes slice-of-life do ano."
+      "noticia": "'Sora no Melody' encanta fãs de música e drama em 2025.",
+      "data_publicacao": "2025-03-06"
     },
     {
       "titulo": "Cyber Lotus",
       "imagem": "https://example.com/images/cyber-lotus.jpg",
-      "noticia": "No futuro distópico de Neo-Tóquio, 'Cyber Lotus' destaca a luta de hackers contra megacorporações. A animação da Pulsar Studios combina visual neon, cenas de ação frenéticas e discussões profundas sobre identidade e controle social, conquistando fãs de ficção científica."
+      "noticia": "No futuro distópico de Neo-Tóquio, 'Cyber Lotus' destaca a luta de hackers contra megacorporações.",
+      "data_publicacao": "2025-04-04"
     },
     {
       "titulo": "Akuma's Eden",
       "imagem": "https://example.com/images/akumas-eden.jpg",
-      "noticia": "Misturando terror psicológico e fantasia, 'Akuma's Eden' narra a jornada de um jovem exorcista em um mundo à beira do apocalipse demoníaco. Com traço detalhado e roteiro denso, o anime virou sensação desde sua estreia em janeiro de 2025."
+      "noticia": "Misturando terror psicológico e fantasia, 'Akuma's Eden' narra a jornada de um jovem exorcista.",
+      "data_publicacao": "2025-04-17"
     },
     {
       "titulo": "Kimi no Chizu",
       "imagem": "https://example.com/images/kimi-no-chizu.jpg",
-      "noticia": "Inspirado em road trips emocionais, 'Kimi no Chizu' conta a história de dois amigos que partem em uma viagem para redescobrir a infância perdida. O anime conquistou corações por seu roteiro sensível, paisagens deslumbrantes e personagens cativantes."
+      "noticia": "'Kimi no Chizu' conta a história de dois amigos que partem em uma viagem.",
+      "data_publicacao": "2025-02-23"
     },
     {
       "titulo": "Project Zero: Rebirth",
       "imagem": "https://example.com/images/project-zero-rebirth.jpg",
-      "noticia": "Produzido pela lendária Nexus Works, 'Project Zero: Rebirth' combina mechas, intriga política e conflitos filosóficos. O enredo focado na reconstrução de um mundo devastado pela guerra é aclamado tanto por veteranos quanto por novos fãs de ficção militar."
+      "noticia": "'Project Zero: Rebirth' combina mechas, intriga política e conflitos filosóficos.",
+      "data_publicacao": "2025-04-27"
     },
     {
       "titulo": "Ao no Kakera",
       "imagem": "https://example.com/images/ao-no-kakera.jpg",
-      "noticia": "Uma vila costeira esconde segredos milenares em 'Ao no Kakera'. Entre drama, mistério e tradições ancestrais, o anime explora temas como pertencimento e sacrifício, apresentando belíssimas animações de mar e céu."
+      "noticia": "'Ao no Kakera' explora temas como pertencimento e sacrifício.",
+      "data_publicacao": "2025-03-17"
     },
     {
       "titulo": "Battle Witch Academia",
       "imagem": "https://example.com/images/battle-witch-academia.jpg",
-      "noticia": "'Battle Witch Academia' é a aposta ousada do estúdio Nova para 2025. Combinando magia de batalha e comédia estudantil, a série rapidamente ganhou popularidade com cenas de luta criativas e personagens carismáticos."
+      "noticia": "'Battle Witch Academia' é a aposta ousada do estúdio Nova para 2025.",
+      "data_publicacao": "2025-04-27"
     },
     {
       "titulo": "Mythos Break",
       "imagem": "https://example.com/images/mythos-break.jpg",
-      "noticia": "'Mythos Break' reinventa lendas gregas em um universo futurista onde deuses e humanos coexistem. Cheio de ação, drama e reflexões sobre imortalidade, o anime é apontado como uma das produções mais inovadoras do ano."
+      "noticia": "'Mythos Break' reinventa lendas gregas em um universo futurista.",
+      "data_publicacao": "2025-02-03"
     },
     {
       "titulo": "Hikari no Miko",
       "imagem": "https://example.com/images/hikari-no-miko.jpg",
-      "noticia": "A história de uma sacerdotisa destinada a unir mundos é o foco de 'Hikari no Miko'. Com visuais etéreos e narrativa emocionante, o anime explora espiritualidade, tradição e amor através de uma protagonista forte e determinada."
+      "noticia": "A história de uma sacerdotisa destinada a unir mundos é o foco de 'Hikari no Miko'.",
+      "data_publicacao": "2025-03-20"
     },
     {
       "titulo": "Samurai Nova",
       "imagem": "https://example.com/images/samurai-nova.jpg",
-      "noticia": "'Samurai Nova' transporta o Bushido para o espaço sideral. Nesta saga épica, clãs de samurais batalham pela supremacia entre galáxias. A série mistura ação intensa e questões filosóficas sobre honra, dever e destino."
+      "noticia": "'Samurai Nova' transporta o Bushido para o espaço sideral.",
+      "data_publicacao": "2025-04-16"
     },
     {
       "titulo": "Dreamscape Agency",
       "imagem": "https://example.com/images/dreamscape-agency.jpg",
-      "noticia": "Na 'Dreamscape Agency', agentes especiais entram nos sonhos das pessoas para resolver mistérios e traumas. O anime mistura ficção científica e drama psicológico, criando uma atmosfera única que conquistou o público de 2025."
+      "noticia": "Na 'Dreamscape Agency', agentes especiais entram nos sonhos das pessoas.",
+      "data_publicacao": "2025-03-09"
     },
     {
       "titulo": "Last Parade",
       "imagem": "https://example.com/images/last-parade.jpg",
-      "noticia": "Em 'Last Parade', um pequeno grupo de soldados atravessa um mundo destruído em busca de sobreviventes. Emoções cruas e questionamentos morais permeiam cada episódio, fazendo da série uma jornada tão épica quanto melancólica."
+      "noticia": "Em 'Last Parade', um pequeno grupo de soldados atravessa um mundo destruído.",
+      "data_publicacao": "2025-02-20"
     },
     {
       "titulo": "Uroboros: Endless War",
       "imagem": "https://example.com/images/uroboros-endless-war.jpg",
-      "noticia": "'Uroboros: Endless War' impressiona pelo seu mundo de fantasia onde guerra e paz coexistem em um ciclo interminável. Com personagens complexos e batalhas estrategicamente pensadas, é um dos maiores sucessos de 2025."
+      "noticia": "'Uroboros: Endless War' impressiona pelo seu mundo de fantasia.",
+      "data_publicacao": "2025-01-21"
     },
     {
       "titulo": "Neko Days",
       "imagem": "https://example.com/images/neko-days.jpg",
-      "noticia": "Leve e divertido, 'Neko Days' acompanha a vida de um grupo de estudantes que se transformam em gatos sempre que têm emoções fortes. Uma comédia irresistível que mistura amizade, amor e... muitas confusões felinas!"
+      "noticia": "'Neko Days' acompanha estudantes que se transformam em gatos.",
+      "data_publicacao": "2025-02-06"
     },
     {
       "titulo": "Kage no Orchestra",
       "imagem": "https://example.com/images/kage-no-orchestra.jpg",
-      "noticia": "'Kage no Orchestra' traz a história emocionante de músicos rejeitados que formam uma orquestra clandestina. Em 2025, a série foi aclamada tanto pela trama quanto pela música de altíssimo nível que emociona do começo ao fim."
+      "noticia": "'Kage no Orchestra' traz a história emocionante de músicos rejeitados.",
+      "data_publicacao": "2025-03-08"
     },
     {
       "titulo": "Flare Ignition",
       "imagem": "https://example.com/images/flare-ignition.jpg",
-      "noticia": "'Flare Ignition' explora corridas futuristas em cidades suspensas no céu. Com cenas de tirar o fôlego e uma narrativa intensa, o anime promete ser a nova sensação para fãs de ação e velocidade extrema."
+      "noticia": "'Flare Ignition' explora corridas futuristas em cidades suspensas no céu.",
+      "data_publicacao": "2025-02-27"
     }
   ]
 }
