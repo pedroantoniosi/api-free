@@ -1,0 +1,404 @@
+{
+  "media": [
+    {
+      "title": "Eclipse of Shadows",
+      "image": "https://example.com/images/eclipse-of-shadows.jpg",
+      "news": "Eclipse of Shadows is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-02-16",
+      "views": 14384,
+      "type": "anime"
+    },
+    {
+      "title": "Sky Melody",
+      "image": "https://example.com/images/sky-melody.jpg",
+      "news": "Sky Melody is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-01-15",
+      "views": 47843,
+      "type": "anime"
+    },
+    {
+      "title": "Cyber Lotus",
+      "image": "https://example.com/images/cyber-lotus.jpg",
+      "news": "Cyber Lotus is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-01-17",
+      "views": 25802,
+      "type": "anime"
+    },
+    {
+      "title": "Akuma's Eden",
+      "image": "https://example.com/images/akuma's-eden.jpg",
+      "news": "Akuma's Eden is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-03-22",
+      "views": 5886,
+      "type": "anime"
+    },
+    {
+      "title": "Your Map",
+      "image": "https://example.com/images/your-map.jpg",
+      "news": "Your Map is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-04-09",
+      "views": 46652,
+      "type": "anime"
+    },
+    {
+      "title": "Project Zero: Rebirth",
+      "image": "https://example.com/images/project-zero:-rebirth.jpg",
+      "news": "Project Zero: Rebirth is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-03-29",
+      "views": 41676,
+      "type": "anime"
+    },
+    {
+      "title": "Blue Fragment",
+      "image": "https://example.com/images/blue-fragment.jpg",
+      "news": "Blue Fragment is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-04-27",
+      "views": 23846,
+      "type": "anime"
+    },
+    {
+      "title": "Battle Witch Academia",
+      "image": "https://example.com/images/battle-witch-academia.jpg",
+      "news": "Battle Witch Academia is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-01-04",
+      "views": 24166,
+      "type": "anime"
+    },
+    {
+      "title": "Mythos Break",
+      "image": "https://example.com/images/mythos-break.jpg",
+      "news": "Mythos Break is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-03-10",
+      "views": 23904,
+      "type": "anime"
+    },
+    {
+      "title": "Priestess of Light",
+      "image": "https://example.com/images/priestess-of-light.jpg",
+      "news": "Priestess of Light is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-02-28",
+      "views": 18215,
+      "type": "anime"
+    },
+    {
+      "title": "Samurai Nova",
+      "image": "https://example.com/images/samurai-nova.jpg",
+      "news": "Samurai Nova is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-04-27",
+      "views": 20168,
+      "type": "anime"
+    },
+    {
+      "title": "Dreamscape Agency",
+      "image": "https://example.com/images/dreamscape-agency.jpg",
+      "news": "Dreamscape Agency is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-02-27",
+      "views": 30760,
+      "type": "anime"
+    },
+    {
+      "title": "Last Parade",
+      "image": "https://example.com/images/last-parade.jpg",
+      "news": "Last Parade is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-04-19",
+      "views": 39812,
+      "type": "anime"
+    },
+    {
+      "title": "Uroboros: Endless War",
+      "image": "https://example.com/images/uroboros:-endless-war.jpg",
+      "news": "Uroboros: Endless War is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-02-28",
+      "views": 19392,
+      "type": "anime"
+    },
+    {
+      "title": "Cat Days",
+      "image": "https://example.com/images/cat-days.jpg",
+      "news": "Cat Days is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-01-25",
+      "views": 42884,
+      "type": "anime"
+    },
+    {
+      "title": "Shadow Orchestra",
+      "image": "https://example.com/images/shadow-orchestra.jpg",
+      "news": "Shadow Orchestra is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-02-10",
+      "views": 14815,
+      "type": "anime"
+    },
+    {
+      "title": "Flare Ignition",
+      "image": "https://example.com/images/flare-ignition.jpg",
+      "news": "Flare Ignition is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-04-08",
+      "views": 42611,
+      "type": "anime"
+    },
+    {
+      "title": "Tears of the Wind",
+      "image": "https://example.com/images/tears-of-the-wind.jpg",
+      "news": "Tears of the Wind is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-03-22",
+      "views": 29761,
+      "type": "anime"
+    },
+    {
+      "title": "Digital Shrine",
+      "image": "https://example.com/images/digital-shrine.jpg",
+      "news": "Digital Shrine is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-03-17",
+      "views": 30434,
+      "type": "anime"
+    },
+    {
+      "title": "Echoes of Silence",
+      "image": "https://example.com/images/echoes-of-silence.jpg",
+      "news": "Echoes of Silence is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-03-01",
+      "views": 36824,
+      "type": "anime"
+    },
+    {
+      "title": "Neon Wanderer",
+      "image": "https://example.com/images/neon-wanderer.jpg",
+      "news": "Neon Wanderer is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-01-05",
+      "views": 40662,
+      "type": "anime"
+    },
+    {
+      "title": "Crimson Howl",
+      "image": "https://example.com/images/crimson-howl.jpg",
+      "news": "Crimson Howl is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-01-11",
+      "views": 37928,
+      "type": "anime"
+    },
+    {
+      "title": "Radiant Pulse",
+      "image": "https://example.com/images/radiant-pulse.jpg",
+      "news": "Radiant Pulse is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-02-06",
+      "views": 49242,
+      "type": "anime"
+    },
+    {
+      "title": "Moonlight Blade",
+      "image": "https://example.com/images/moonlight-blade.jpg",
+      "news": "Moonlight Blade is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-01-21",
+      "views": 42298,
+      "type": "anime"
+    },
+    {
+      "title": "Ghost Carnival",
+      "image": "https://example.com/images/ghost-carnival.jpg",
+      "news": "Ghost Carnival is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "2025-03-30",
+      "views": 37875,
+      "type": "anime"
+    },
+    {
+      "title": "Blade of Fate",
+      "image": "https://example.com/images/blade-of-fate.jpg",
+      "news": "Blade of Fate is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-03",
+      "views": 17508,
+      "type": "manga"
+    },
+    {
+      "title": "Seraphim Game",
+      "image": "https://example.com/images/seraphim-game.jpg",
+      "news": "Seraphim Game is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-24",
+      "views": 41919,
+      "type": "manga"
+    },
+    {
+      "title": "Alchemist Memoirs",
+      "image": "https://example.com/images/alchemist-memoirs.jpg",
+      "news": "Alchemist Memoirs is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-11",
+      "views": 9878,
+      "type": "manga"
+    },
+    {
+      "title": "The Forgotten Hero",
+      "image": "https://example.com/images/the-forgotten-hero.jpg",
+      "news": "The Forgotten Hero is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-02-03",
+      "views": 42154,
+      "type": "manga"
+    },
+    {
+      "title": "Dream Trigger",
+      "image": "https://example.com/images/dream-trigger.jpg",
+      "news": "Dream Trigger is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-06",
+      "views": 13186,
+      "type": "manga"
+    },
+    {
+      "title": "Dragon's Code",
+      "image": "https://example.com/images/dragon's-code.jpg",
+      "news": "Dragon's Code is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-02-20",
+      "views": 12483,
+      "type": "manga"
+    },
+    {
+      "title": "Silent War",
+      "image": "https://example.com/images/silent-war.jpg",
+      "news": "Silent War is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-01-10",
+      "views": 18890,
+      "type": "manga"
+    },
+    {
+      "title": "Soul Drifters",
+      "image": "https://example.com/images/soul-drifters.jpg",
+      "news": "Soul Drifters is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-28",
+      "views": 44604,
+      "type": "manga"
+    },
+    {
+      "title": "Fragments of You",
+      "image": "https://example.com/images/fragments-of-you.jpg",
+      "news": "Fragments of You is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-01-07",
+      "views": 44701,
+      "type": "manga"
+    },
+    {
+      "title": "Toxic Moon",
+      "image": "https://example.com/images/toxic-moon.jpg",
+      "news": "Toxic Moon is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-02-03",
+      "views": 15798,
+      "type": "manga"
+    },
+    {
+      "title": "Angel Sector",
+      "image": "https://example.com/images/angel-sector.jpg",
+      "news": "Angel Sector is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-08",
+      "views": 38351,
+      "type": "manga"
+    },
+    {
+      "title": "Neon Blossom",
+      "image": "https://example.com/images/neon-blossom.jpg",
+      "news": "Neon Blossom is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-04-09",
+      "views": 15076,
+      "type": "manga"
+    },
+    {
+      "title": "Darkness Reign",
+      "image": "https://example.com/images/darkness-reign.jpg",
+      "news": "Darkness Reign is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-01-19",
+      "views": 44855,
+      "type": "manga"
+    },
+    {
+      "title": "Core Break",
+      "image": "https://example.com/images/core-break.jpg",
+      "news": "Core Break is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-01-02",
+      "views": 49368,
+      "type": "manga"
+    },
+    {
+      "title": "Wish Machine",
+      "image": "https://example.com/images/wish-machine.jpg",
+      "news": "Wish Machine is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-04-15",
+      "views": 25629,
+      "type": "manga"
+    },
+    {
+      "title": "Chroma Kiss",
+      "image": "https://example.com/images/chroma-kiss.jpg",
+      "news": "Chroma Kiss is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-04-19",
+      "views": 27891,
+      "type": "manga"
+    },
+    {
+      "title": "Void Horizon",
+      "image": "https://example.com/images/void-horizon.jpg",
+      "news": "Void Horizon is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-04-05",
+      "views": 42558,
+      "type": "manga"
+    },
+    {
+      "title": "Endless Dust",
+      "image": "https://example.com/images/endless-dust.jpg",
+      "news": "Endless Dust is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-21",
+      "views": 39132,
+      "type": "manga"
+    },
+    {
+      "title": "Broken Strings",
+      "image": "https://example.com/images/broken-strings.jpg",
+      "news": "Broken Strings is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-14",
+      "views": 46009,
+      "type": "manga"
+    },
+    {
+      "title": "Kingdom Reset",
+      "image": "https://example.com/images/kingdom-reset.jpg",
+      "news": "Kingdom Reset is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-01-02",
+      "views": 22414,
+      "type": "manga"
+    },
+    {
+      "title": "Night Courier",
+      "image": "https://example.com/images/night-courier.jpg",
+      "news": "Night Courier is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-01-23",
+      "views": 31075,
+      "type": "manga"
+    },
+    {
+      "title": "Frost Whisper",
+      "image": "https://example.com/images/frost-whisper.jpg",
+      "news": "Frost Whisper is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-04-14",
+      "views": 29968,
+      "type": "manga"
+    },
+    {
+      "title": "Urban Oracle",
+      "image": "https://example.com/images/urban-oracle.jpg",
+      "news": "Urban Oracle is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-02-03",
+      "views": 38611,
+      "type": "manga"
+    },
+    {
+      "title": "Gravity Line",
+      "image": "https://example.com/images/gravity-line.jpg",
+      "news": "Gravity Line is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-03-23",
+      "views": 12135,
+      "type": "manga"
+    },
+    {
+      "title": "Inkbound",
+      "image": "https://example.com/images/inkbound.jpg",
+      "news": "Inkbound is a rising manga sensation in 2025, gaining traction for its rich characters and emotional depth.",
+      "release_date": "2025-04-24",
+      "views": 11147,
+      "type": "manga"
+    }
+  ]
+}
