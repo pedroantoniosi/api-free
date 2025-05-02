@@ -1,0 +1,229 @@
+{
+  "animes": [
+    {
+      "id": "01",
+      "title": "Akuma's Eden",
+      "image": "https://example.com/images/#01-akumaseden.png",
+      "news": "Akuma's Eden is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "03-22-2025",
+      "views": 5886,
+      "type": "anime"
+    },
+    {
+      "id": "02",
+      "title": "Alima",
+      "image": "https://example.com/images/#02-alima.png",
+      "news": "Alima is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "04-27-2025",
+      "views": 23846,
+      "type": "anime"
+    },
+    {
+      "id": "03",
+      "title": "Battle Witch Academia",
+      "image": "https://example.com/images/#03-battlewitchacademia.png",
+      "news": "Battle Witch Academia is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "01-04-2025",
+      "views": 24166,
+      "type": "anime"
+    },
+    {
+      "id": "04",
+      "title": "Cast Days",
+      "image": "https://example.com/images/#04-castdays.png",
+      "news": "Cast Days is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "01-25-2025",
+      "views": 42884,
+      "type": "anime"
+    },
+    {
+      "id": "05",
+      "title": "Crimson Howl",
+      "image": "https://example.com/images/#05-crimsonhowl.png",
+      "news": "Crimson Howl is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "01-11-2025",
+      "views": 37928,
+      "type": "anime"
+    },
+    {
+      "id": "06",
+      "title": "Cyber Lotus",
+      "image": "https://example.com/images/#06-cyberlotus.png",
+      "news": "Cyber Lotus is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "01-17-2025",
+      "views": 25802,
+      "type": "anime"
+    },
+    {
+      "id": "07",
+      "title": "Digital Shrine",
+      "image": "https://example.com/images/#07-digitalshrine.png",
+      "news": "Digital Shrine is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "03-17-2025",
+      "views": 30434,
+      "type": "anime"
+    },
+    {
+      "id": "08",
+      "title": "Echoes of Silence",
+      "image": "https://example.com/images/#08-echoesofsilence.png",
+      "news": "Echoes of Silence is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "03-01-2025",
+      "views": 36824,
+      "type": "anime"
+    },
+    {
+      "id": "09",
+      "title": "Eclipse of Shadows",
+      "image": "https://example.com/images/#08-echoesofsilence.png",
+      "news": "Eclipse of Shadows is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "02-16-2025",
+      "views": 14384,
+      "type": "anime"
+    },
+    {
+      "id": "10",
+      "title": "Flare Ignition",
+      "image": "https://example.com/images/#10-flareignition.png",
+      "news": "Flare Ignition is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "04-08-2025",
+      "views": 42611,
+      "type": "anime"
+    },
+    {
+      "id": "11",
+      "title": "Ghost Carnival",
+      "image": "https://example.com/images/#11-ghostcarnival.png",
+      "news": "Ghost Carnival is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "03-30-2025",
+      "views": 37875,
+      "type": "anime"
+    },
+    {
+      "id": "12",
+      "title": "Last Parade",
+      "image": "https://example.com/images/#12-lastparade.png",
+      "news": "Last Parade is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "04-19-2025",
+      "views": 39812,
+      "type": "anime"
+    },
+    {
+      "id": "13",
+      "title": "Moonlight Blade",
+      "image": "https://example.com/images/#13-moonlightblade.png",
+      "news": "Moonlight Blade is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "01-21-2025",
+      "views": 42298,
+      "type": "anime"
+    },
+    {
+      "id": "14",
+      "title": "Mythos Break",
+      "image": "https://example.com/images/#14-mythosbreak.png",
+      "news": "Mythos Break is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "03-10-2025",
+      "views": 23904,
+      "type": "anime"
+    },
+    {
+      "id": "15",
+      "title": "Neon Wanderer",
+      "image": "https://example.com/images/#15-neonwanderer.png",
+      "news": "Neon Wanderer is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "01-05-2025",
+      "views": 40662,
+      "type": "anime"
+    },
+    {
+      "id": "16",
+      "title": "Ninjunr",
+      "image": "https://example.com/images/#16-ninjunr.png",
+      "news": "Ninjunr is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "02-27-2025",
+      "views": 30760,
+      "type": "anime"
+    },
+    {
+      "id": "17",
+      "title": "Priestess of Light",
+      "image": "https://example.com/images/#17-priestessoflight.png",
+      "news": "Priestess of Light is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "02-28-2025",
+      "views": 18215,
+      "type": "anime"
+    },
+    {
+      "id": "18",
+      "title": "Project Zero: Rebirth",
+      "image": "https://example.com/images/#18-projectzerorebirth.png",
+      "news": "Project Zero: Rebirth is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "03-29-2025",
+      "views": 41676,
+      "type": "anime"
+    },
+    {
+      "id": "19",
+      "title": "Radiant Pulse",
+      "image": "https://example.com/images/#19-radiantpulse.png",
+      "news": "Radiant Pulse is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "02-06-2025",
+      "views": 49242,
+      "type": "anime"
+    },
+    {
+      "id": "20",
+      "title": "Radiant Pulse Next Generation",
+      "image": "https://example.com/images/#19-radiantpulse2.png",
+      "news": "Radiant Pulse: Next Generation Ushers in a Bold New Era for the Beloved Anime Series",
+      "release_date": "02-06-2025",
+      "views": 49242,
+      "type": "anime"
+    },
+    {
+      "id": "21",
+      "title": "Samurai Nova",
+      "image": "https://example.com/images/#21-samurainova.png",
+      "news": "Samurai Nova is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "04-27-2025",
+      "views": 20168,
+      "type": "anime"
+    },
+    {
+      "id": "22",
+      "title": "Shadow Orchestra",
+      "image": "https://example.com/images/#22-shadoworchestra.png",
+      "news": "Shadow Orchestra is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "02-10-2025",
+      "views": 14815,
+      "type": "anime"
+    },
+    {
+      "id": "23",
+      "title": "Sky Melody",
+      "image": "https://example.com/images/#23-skymelody.png",
+      "news": "Sky Melody is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "01-15-2025",
+      "views": 47843,
+      "type": "anime"
+    },
+    {
+      "id": "24",
+      "title": "Tears of the Wind",
+      "image": "https://example.com/images/#24-tearsofthewind.png",
+      "news": "Tears of the Wind is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "03-22-2025",
+      "views": 29761,
+      "type": "anime"
+    },
+    {
+      "id": "25",
+      "title": "Dragonbound Atlas",
+      "image": "https://example.com/images/dragonboundatlas.png",
+      "news": "Dragonbound Atlas is one of the most awaited anime releases of 2025, captivating fans with its unique story and visuals.",
+      "release_date": "04-09-2025",
+      "views": 46652,
+      "type": "anime"
+    }
+  ]
+}
